@@ -46,12 +46,3 @@ Features
 - ```npm run dev```
 
 ---
-
-### Contributing Guide
-
-If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
-<br/>
-
-### License
-
-This repository is MIT licensed. [Read more](./LICENSE)
