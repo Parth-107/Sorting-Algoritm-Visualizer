@@ -4,8 +4,8 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
-[See it in action](https://sadanandpai.github.io/sorting-visualizer/dist/)
+<a href="https://parth-107.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
+[See it in action](https://parth-107.github.io/sorting-visualizer/dist/)
 
 ---
 
@@ -38,11 +38,3 @@ Features
 - Animations are done using pure CSS and uses [FLIP principle](https://aerotwist.com/blog/flip-your-animations/)
 - Flex is used for array display and manipulation of positions (flex order property)
 - JavaScript async generators are used heavily for the controlled execution of algorithms
-
-### Run in your local
-
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
-- ```npm install``` (after navigating inside the directory)
-- ```npm run dev```
-
----
